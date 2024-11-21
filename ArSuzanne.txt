@@ -6,7 +6,7 @@
 </head>
 <body style="margin: 0; display: flex; justify-content: center; align-items: center; height: 100vh; background-color: #f4f4f4;">
   <model-viewer 
-    src="https://drive.google.com/file/d/1OABthJZJmZ982ym87P9v6nKAvHF6f9-Q/view?usp=drive_link" 
+    src="https://github.com/TomassioDes/Suzanne/blob/main/SUZANNEglb.glb" 
     ar 
     ar-modes="scene-viewer webxr quick-look"
     camera-controls 
