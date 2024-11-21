@@ -7,7 +7,7 @@
 </head>
 <body>
     <h1>¡Mira el modelo en Realidad Aumentada!</h1>
-    <model-viewer src="https://github.com/TomassioDes/Suzanne/blob/main/SUZANNEglb.glb" 
+    <model-viewer src="https://github.com/TomassioDes/Suzanne/raw/main/SUZANNEglb.glb" 
                   alt="Un modelo 3D" 
                   auto-rotate 
                   camera-controls 
